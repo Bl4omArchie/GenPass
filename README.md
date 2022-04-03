@@ -2,9 +2,7 @@
 
 GenPass is a simple password generator made with tkinter in python. 
 
-<p align="center">
 ![logo](https://raw.githubusercontent.com/Bl4omArchie/GenPass/main/pic/Capture%20d%E2%80%99%C3%A9cran%20du%202022-04-03%2012-41-10.png "interface")
-</p>
 It generate a password in a chosen range that you can indicate. 
 
 <p align="center">
